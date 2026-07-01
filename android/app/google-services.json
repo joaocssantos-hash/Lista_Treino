@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041332123597",
+    "project_id": "diariotreinos",
+    "storage_bucket": "diariotreinos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041332123597:android:4ae59f89cea43acff4f684",
+        "android_client_info": {
+          "package_name": "com.example.diario_treinos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMlSvNuWdm7du3cvnDmo3huP4blKJZS9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
